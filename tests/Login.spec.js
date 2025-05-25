@@ -21,12 +21,7 @@ test.describe('Login tests', () => {
         await login.login('standard_user','secret_sauce1')
         await login.failLogin()
 
-
-
     })
-
-
-
 
 
 })

@@ -7,8 +7,9 @@ This is a sample automation project using [Playwright](https://playwright.dev/) 
 
 ## Scenarios Covered
 
-- Login with valid credentials
+- Login with valid and invalid credentials
 - Add & remove products from cart
+- Checkout
 - Logout
 
 ##  Tech Stack

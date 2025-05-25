@@ -10,7 +10,9 @@
   "author": "Nataliia Medchenko",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
     "@playwright/test": "^1.52.0",
+    "axe-core": "^4.10.3",
     "playwright": "^1.52.0"
   }
 }
