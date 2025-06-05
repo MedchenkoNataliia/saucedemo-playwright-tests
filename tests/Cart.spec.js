@@ -3,7 +3,7 @@ const { LoginPage } = require('../pages/LoginPage')
 const { CartPage } = require('../pages/CartPage')
 
 
-test('User adds and removes item from cart', async ({page}) => {
+test('@LOT-0005 User adds and removes item from cart', async ({page}) => {
     
   const login = new LoginPage(page)
     
